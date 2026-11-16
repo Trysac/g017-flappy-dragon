@@ -14,12 +14,12 @@ grab coins, burn bats with fireballs and chase medals and your best score as the
 
 ## Play it
 
-- **In your browser:** [trysac.github.io/Flappy-Bird-Clone](https://trysac.github.io/Flappy-Bird-Clone/)
+- **In your browser:** [trysac.github.io/g017-flappy-dragon](https://trysac.github.io/g017-flappy-dragon/)
 - **On itch.io:** [trysac.itch.io/flappy-dragon](https://trysac.itch.io/flappy-dragon)
 - **Get the code:** fork this repository, or clone it:
 
   ```bash
-  git clone https://github.com/Trysac/Flappy-Bird-Clone.git
+  git clone https://github.com/Trysac/g017-flappy-dragon.git
   ```
 
 ## Run it
